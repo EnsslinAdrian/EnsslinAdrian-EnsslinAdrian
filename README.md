@@ -172,12 +172,12 @@ turning ideas into systems that actually run in production and stay maintainable
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=EnsslinAdrian&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=EnsslinAdrian&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
     alt="GitHub Stats"
     width="49%"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=EnsslinAdrian&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=EnsslinAdrian&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
     width="49%"
   />
@@ -185,7 +185,7 @@ turning ideas into systems that actually run in production and stay maintainable
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnsslinAdrian&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnsslinAdrian&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
     alt="Top Languages"
     width="40%"
   />
@@ -230,3 +230,4 @@ turning ideas into systems that actually run in production and stay maintainable
 <p align="center" style="margin:0;padding:0;">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=6,12,24" style="width:100%;display:block;margin:0;padding:0;" alt="Footer" />
 </p>
+
