@@ -1,148 +1,223 @@
 <!-- Header Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Adrian%20Ensslin&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20Profile!&descSize=20&descAlignY=55" width="100%"/>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Adrian%20Ensslin&fontAlign=50&fontAlignY=35&color=0:020617,50:0f172a,100:020617&textBg=false&fontColor=ffffff&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=55&animation=twinkling" width="100%" />
+</p>
 
-<!-- Animated Typing -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hello+World!;I'm+a+passionate+Developer+%F0%9F%92%BB;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
-  </a>
-</div>
+<!-- Animated Typing: roles & focus (no name, one line at a time) -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=750&height=60&lines=Fullstack+%26+DevSecOps+Engineer;Building+secure+%26+reliable+web+experiences;Angular+·+TypeScript+·+Python+·+Django+·+Three.js"
+    alt="Typing intro"
+  />
+</p>
 
-<br>
-
-<!-- Profile Views & Social Badges -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=EnsslinAdrian&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+<!-- Profile Views & Followers -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EnsslinAdrian&style=for-the-badge&color=0f172a" alt="Profile Views" />
   <a href="https://github.com/EnsslinAdrian?tab=followers">
-    <img src="https://img.shields.io/github/followers/EnsslinAdrian?style=for-the-badge&logo=github&color=blue" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/EnsslinAdrian?style=for-the-badge&logo=github&color=111827" alt="Followers" />
   </a>
-</div>
+</p>
 
-<br>
+---
 
-<!-- About Me Section -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> About Me
+## 👨‍💻 About Me
 
 ```yaml
-name: Adrian Ensslin
+name: Adrian Enßlin
+role: Fullstack & DevSecOps Engineer
 location: Germany 🇩🇪
-current_focus: Building amazing things with code
-interests:
-  - 💻 Software Development
-  - 🌐 Web Technologies
-  - 🚀 Learning new technologies
-hobbies:
-  - 🎮 Gaming
-  - 📚 Reading
-  - 🎵 Music
-motto: "Code, Learn, Repeat! 🔄"
+focus:
+  - Angular · TypeScript · Three.js
+  - Python · Django · REST APIs
+  - DevSecOps · CI/CD · Linux · Nginx
+mindset:
+  - clean architecture over quick hacks
+  - secure by default
+  - learning in public
 ```
 
-<br>
+I like to work at the intersection of **frontend, backend, infrastructure & security** –
+turning ideas into systems that actually run in production and stay maintainable.
 
-<!-- Tech Stack Section -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"/> Tech Stack
+---
 
-<div align="center">
+## 🧰 Tech Stack
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+  <strong>Languages</strong><br/><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff" />
+</p>
 
-### 🛠️ Frameworks & Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<p align="center">
+  <strong>Frameworks & Tools</strong><br/><br/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=greensock&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=ffffff" />
+</p>
 
-### ☁️ Cloud & Databases
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<p align="center">
+  <strong>Databases & Cloud</strong><br/><br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=ffffff" />
+</p>
 
-</div>
+---
 
-<br>
+## 🚀 Highlighted Projects
 
-<!-- GitHub Stats Section -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/> GitHub Statistics
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🌀 Portfolio Frontend</h3>
+      <p>
+        A personal portfolio built with <strong>Angular</strong>, <strong>Three.js</strong> and <strong>GSAP</strong> – featuring a
+        custom particle sphere, smooth scroll animations and a focus on clean UI & DX.
+      </p>
+      <p>
+        <strong>Tech:</strong> Angular · TypeScript · Three.js · GSAP · SCSS
+      </p>
+      <p>
+        🔗 <a href="https://adrianensslin.de" target="_blank">Live Demo</a><br/>
+        🔗 <a href="https://github.com/EnsslinAdrian/new_portfolio_frontend" target="_blank">Repository</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🏗️ B2B E‑Commerce Platform</h3>
+      <p>
+        A specialized B2B shop for natural stone & flooring products, tightly integrated with an ERP.
+        Product data, inventory and orders are synchronized automatically for efficient sales in the craft sector.
+      </p>
+      <p>
+        <strong>Tech:</strong> Angular · TypeScript · Python · Django · REST · PostgreSQL
+      </p>
+      <p>
+        🔗 <a href="https://fs-schleiftechnik.de/" target="_blank">Live Demo</a><br/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>💬 DaBubble – Realtime Chat</h3>
+      <p>
+        A Discord-inspired real-time chat app with servers & channels. Users can create rooms, chat live
+        and organize communication in teams and communities.
+      </p>
+      <p>
+        <strong>Tech:</strong> Angular · TypeScript · Firebase
+      </p>
+      <p>
+        🔗 <a href="https://dabubble-380.developerakademie.net/angular-projects/dabubble/" target="_blank">Live Demo</a><br/>
+        🔗 <a href="https://github.com/EnsslinAdrian/DaBubble" target="_blank">Repository</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>✅ Join – Kanban Task Manager</h3>
+      <p>
+        A digital task manager in Kanban style. Tasks can be organized via drag &amp; drop, assigned to users
+        and grouped by categories – focused on clarity and fast workflows.
+      </p>
+      <p>
+        <strong>Tech:</strong> HTML · CSS · JavaScript · Firebase
+      </p>
+      <p>
+        🔗 <a href="https://join-208.developerakademie.net/Join/index.html" target="_blank">Live Demo</a><br/>
+        🔗 <a href="https://github.com/EnsslinAdrian/Join" target="_blank">Repository</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🛒 ProductSync – Mini Shop Backend</h3>
+      <p>
+        A small educational backend written in Python. Demonstrates API integration, OOP,
+        SQLite persistence, logging and JSON/CSV export – built <em>without</em> web frameworks.
+      </p>
+      <p>
+        <strong>Tech:</strong> Python · SQLite · Requests · Logging
+      </p>
+      <p>
+        🔗 <a href="https://github.com/EnsslinAdrian/ProductSync" target="_blank">Repository</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🔐 Secure V‑Server Setup Guide</h3>
+      <p>
+        A step‑by‑step guide to harden a V‑Server: SSH key auth, disabling password logins,
+        user management, Nginx setup and shell aliases for faster workflows.
+      </p>
+      <p>
+        <strong>Tech:</strong> Linux · SSH · Nginx · GitHub · Shell
+      </p>
+      <p>
+        🔗 <a href="https://github.com/EnsslinAdrian/v-server-setup" target="_blank">Repository</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=EnsslinAdrian&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=EnsslinAdrian&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
+---
 
-<br>
+## 📊 GitHub Stats
 
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnsslinAdrian&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=EnsslinAdrian&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+    width="49%"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=EnsslinAdrian&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    width="49%"
+  />
+</p>
 
-<br>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnsslinAdrian&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+    width="40%"
+  />
+</p>
 
-<!-- GitHub Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EnsslinAdrian&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph"/>
-</div>
+---
 
-<br>
-
-<!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EnsslinAdrian&theme=tokyonight&no-frame=true&no-bg=true&column=7" width="95%" alt="GitHub Trophies"/>
-</div>
-
-<br>
-
-<!-- Random Dev Quote -->
 ## 💭 Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
 
-<br>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
 
-<!-- Current Project / What I'm Working On -->
-## 🔭 Currently
-<div align="center">
-  <p>🌱 I'm currently learning and exploring new technologies</p>
-  <p>👯 I'm looking to collaborate on interesting open source projects</p>
-  <p>💬 Ask me about anything, I am happy to help!</p>
-</div>
+---
 
-<br>
+## 🤝 Let's Connect
 
-<!-- Connect Section -->
-## 🤝 Let's Connect!
-<div align="center">
+<p align="center">
+  <a href="https://adrianensslin.de" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=firefox&logoColor=ffffff" alt="Portfolio" />
+  </a>
   <a href="https://github.com/EnsslinAdrian" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
   </a>
-  <!-- Add your social links here -->
-  <!--
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/adrian-en%C3%9Flin-b5574b315/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="YOUR_TWITTER_URL" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  -->
-</div>
+</p>
 
-<br>
+---
 
-<!-- Support Section -->
 ## ☕ Support My Work
 <div align="center">
   <p>If you like my work, consider giving a ⭐ to my repositories!</p>
@@ -151,21 +226,8 @@ motto: "Code, Learn, Repeat! 🔄"
   <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
 </div>
 
-<br>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-</div>
-
-<!-- Fun Fact -->
-<div align="center">
-  <h4>⚡ Fun Fact: I've mass-produced debug logs and still call it "coding"! 😄</h4>
-</div>
-
 ---
 
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,50:0f172a,100:020617" width="100%" />
+</p>
